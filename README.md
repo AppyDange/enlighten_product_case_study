@@ -119,6 +119,11 @@ We synthesized everything from research, ecosystem mapping, and market analysis 
 
 The three product pillars we pitched were designed to map directly to the three research insights from the user interviews.
 
+<p align="center">
+  <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/three%20pilars.png?raw=true" 
+       alt="Enlighten Pitch Deck" width="60%" />
+</p>
+
 The first pillar is the AI-Generated Adaptive Syllabus. When a student first joins Enlighten, a diagnostic assessment identifies exactly which foundational concepts are missing based on their academic background and current program requirements. The system then generates a personalized learning path that fills those specific gaps in the most efficient sequence, rather than making the student work through an entire curriculum they mostly already know.
 
 The second pillar is Real-Time Transcription. This directly addresses the accent barrier. During or after a lecture, students can get a live transcript that they can read alongside what they are hearing, significantly reducing the cognitive load of processing an unfamiliar accent while simultaneously trying to absorb complex content.
