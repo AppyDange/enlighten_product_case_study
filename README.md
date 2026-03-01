@@ -108,7 +108,7 @@ The business model we designed around this is a B2C Freemium structure. Free tie
 
 ## 💰 The Business Case and Pitch
 
-We synthesized everything from research, ecosystem mapping, and market analysis into a pitch deck requesting $3,000 in seed funding for customer validation and early prototyping. The investment committee was real, the funding was real, and the competition was real.
+We synthesized everything from research, ecosystem mapping, and market analysis into a pitch deck requesting $2,000 in seed funding for customer validation and early prototyping but ended up winning $3000. The investment committee was real, the funding was real, and the competition was real.
 
 <p align="center">
   <img src="https://github.com/apurva-dange/enlighten_product_case_study/blob/main/ENLIGHTEN%20PITCH%20DECK%20GIF.gif?raw=true" 
